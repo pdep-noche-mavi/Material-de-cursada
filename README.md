@@ -1,5 +1,6 @@
 # Material-de-cursada
-Recopilación de material utilizado durante la cursada (incluidos los parciales y recuperatorios tomados con sus resoluciones)
+Recopilación de material utilizado durante la cursada (incluidos los parciales y recuperatorios tomados con sus resoluciones).
+Gracias por acompañarnos durante la cursada del 2020!
 
 # Funcional
 
