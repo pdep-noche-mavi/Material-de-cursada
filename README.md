@@ -7,6 +7,7 @@ Recopilación de material utilizado durante la cursada (incluidos los parciales 
 ### Parciales
 * [La argentina nos regala sabores](https://github.com/brianUtn98/la-argentina-nos-regala-sabores)
 * [HaskellPark](https://github.com/brianUtn98/haskellPark)
+* Faltan los recus! Podríamos hacerlos si los necesitan.
 
 # Lógico
 
@@ -14,6 +15,7 @@ Recopilación de material utilizado durante la cursada (incluidos los parciales 
 * [Santa Cecilia](https://github.com/brianUtn98/santa-secilia-solucion)
 * [Cocineros argentinos](https://github.com/brianUtn98/cocineros-argentinos-resolucion)
 * [Combinación de colores](https://github.com/brianUtn98/combinacion-de-colores-resolucion)
+* El 2do todavía no se tomó. Se resolverá luego.
 
 # Objetos
 
