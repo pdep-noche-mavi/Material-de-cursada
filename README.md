@@ -15,7 +15,7 @@ Recopilación de material utilizado durante la cursada (incluidos los parciales 
 * [Santa Cecilia](https://github.com/brianUtn98/santa-secilia-solucion)
 * [Cocineros argentinos](https://github.com/brianUtn98/cocineros-argentinos-resolucion)
 * [Combinación de colores](https://github.com/brianUtn98/combinacion-de-colores-resolucion)
-* El 2do todavía no se tomó. Se resolverá luego.
+* Falta el 2do recu, si lo necesitan puede salir :P.
 
 # Objetos
 
